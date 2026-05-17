@@ -1,0 +1,8 @@
+{
+  "name": "自分を愛してみたっていい－成長見える化app―",
+  "description": "自己肯定感を高めるための、成長が目に見える日記・カレンダー・記録アプリです。暖かい色味と可愛らしいアニメーションで癒やしの空間を提供します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
